@@ -1,0 +1,21 @@
+{
+    "ActivityType": "Rueckmeldung",
+    "Object": {
+        "Kooperationspartner": "Telecare",
+        "TeilnahmeID": "RUC_4711_0001",
+        "PersonenID": "P1234567",
+        "SatzId": 1,
+        "Leistungskomponente": "Coaching",
+        "BeginnBetreuung": "2018-09-17T12:47:17.601Z",
+        "GeplantesEndeBetreuung": "2018-09-17T12:47:17.601Z",
+        "TatsaechlichesEndeBetreuung": "2018-09-17T12:47:17.601Z",
+        "AbbruchDatum": "2018-09-17T12:47:17.601Z",
+        "GrundAbbruch": "Medizinischer Grund",
+        "Coach": "Sabine Müller",
+        "PhaseName": "Erstgespräch",
+        "PhaseStartDatum": "2018-09-17T12:47:17.601Z",
+        "PhaseEndeDatum": "2018-09-17T12:47:17.601Z",
+        "GespraechDatum": "2018-09-17T12:47:17.601Z",
+        "GespraechDauer": 30
+    }
+}

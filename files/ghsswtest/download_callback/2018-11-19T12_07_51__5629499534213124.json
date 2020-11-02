@@ -1,0 +1,13 @@
+{
+  "ActivityType": "Callback",
+  "Object": {
+    "TeilnahmeId": "RUC_181105_0002",
+    "PersonenId": "P1000157",
+    "Wunschdatum": "2018-11-05T23:00:00Z",
+    "Wunschzeitraum": "",
+    "Alternativdatum": "2018-11-03T23:00:00Z",
+    "Telefonnummer": "02331 555555555",
+    "Email": "m.rudolphi@gmx.net",
+    "Gesundheitsprogramm": "RUC"
+  }
+}
